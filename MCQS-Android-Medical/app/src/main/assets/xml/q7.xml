@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">anterior pararenal space</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">vestibule space</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">epidural space</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">sub-arachnoid space</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Space of Disse</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID 1145</background>
+	<question>A patient with systemic amyloidosis becomes progressively jaundiced over three months. On examination he is found to have hepato-splenomegaly a markedly raised serum alkaline phosphatase. 
+This patient is most likely to have amyloidosis involvement in the </question>
+	
+	<core>Spaces of Disse</core>
+	<explanation>The peri-sinuisodal space in the livers are known as spaces of Disse and serve as a major site of amyloid involvement. Hepatocytes are separated from the sinusoids by this plasma-filled space. In the liver, as in other organs, amyloidosis gives rise to amorphous, hyaline extracellular deposits in the walls of arteries and arterioles, with lesser involvement of portal or hepatic veins. Hepatic involvement is common in patients with systemic amyloidosis. Localized disease in the liver is rare but has been reported. Features of hepatic amyloidosis include hepatomegaly and increased serum alkaline phosphatase, each of which are found in 60% of patients with biopsy-proven liver involvement; clinical liver disease, however, is rarely encountered. A small number of patients with hepatic amyloidosis develop severe intrahepatic cholestasis with jaundice. This syndrome portends a poor prognosis, although death results from extrahepatic (primarily renal)disease. Liver biopsy is not required to confirm hepatic involvement in patients with known systemic amyloidosis. If the diagnosis is uncertain, liver biopsy may be useful and can be performed safely if clotting parameters are normal and any history of a bleeding disorder is excluded</explanation>
+</mcqs>

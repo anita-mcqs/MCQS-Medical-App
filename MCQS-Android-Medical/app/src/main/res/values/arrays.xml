@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="question_list">
+        <item>R.raw.q1</item>
+        <item>R.raw.q2</item>
+        <item>R.raw.q3</item>
+        <item>R.raw.q4</item>
+        <item>R.raw.q5</item>
+        <item>R.raw.q6</item>
+        <item>R.raw.q7</item>
+        <item>R.raw.q8</item>
+        <item>R.raw.q9</item>
+        <item>R.raw.q10</item>
+    </array>
+</resources>

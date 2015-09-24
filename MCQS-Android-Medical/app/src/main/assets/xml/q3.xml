@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Polar bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Gamna-Favre bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Hematoxylin bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Negri bodies</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Hirano bodies</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID: 5687</background>
+	<question>A lecture is being held by the consultant pathologist about the pathological features of Alzheimer's disease, includes a mention of eosinophilic, rod-shaped inclusions, composed primarily of actin, seen in the cytoplasm of neurons of the central nervous system of patients with Alzheimer's disease 
+These bodies are also known as </question>
+	
+	<core>Hirano bodies</core>
+	<explanation>Hirano bodies, glassy, eosinophilic, rod-shaped inclusions, composed primarily of actin, seen in the cytoplasm of neurons of the central nervous system, chiefly the hippocampus, particularly in older persons; although they may occur in the absence of disease, they are more prevalent in patients with neurodegenerative disorders such as Alzheimer's disease</explanation>
+</mcqs>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">cytoplasmic membrane</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">cytoplasm </incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">plasmids  </incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">peptidoglycan  </incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Outer Membrane</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID: 1155</background>
+	<question>Salmonella bacteria are more resistant than Streptococci to penicillin G. Which of the following factors is most closely associated with this difference ? 
+</question>
+	<core>Gram-negative bacteria</core>
+	<explanation>Gram-negative bacteria are inherently resistant to penicillin because their vulnerable cell wall is protected by an outer membrane that prevents permeation of the penicillin molecule. In gram-negative bacteria, the cell envelope is composed of the outer membrane, peptidoglycan and the cytoplasmic membrane. The outer membrane acts as a sieve to restrict the entry of molecules into the gram-negative cell.Although bacterial cells have only one main chromosome, they may have other pieces of genetic material. These smaller pieces of DNA are known as plasmids and are defined as extrachromosomal pieces of DNA which are capable of autonomous (or regulated) replication. Some plasmids code for proteins that degrade antibiotics but this is not the most correct answer in this case.</explanation>
+</mcqs>

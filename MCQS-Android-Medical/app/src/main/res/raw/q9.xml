@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Psychosis</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Over-Sedation</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Denial</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Anger</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Depression</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID 1153</background>
+	<question>A 60 year old man is in the terminal stages of prostate carcinoma. His relatives note that, although he seems alert and oriented and recognizes them, he has become less interested and engaged with them when they visit. Which of the following is the most likely explanation for this behavior? </question>
+	
+	<core>Clinical Depression</core>
+	<explanation>The fact that the patient is alert rules out over-sedation. The features described indicate that the man is in clinical depression, a final stage of terminal disease. The dying patient is losing everyone and everything s/he has ever loved and cherished in his/her life. Unlike those left behind who only loose the person, the dying have to give everything up. It's a formidable task accompanied by enormous sadness and grief. Often this is a period of very real depression. The dying patient withdraws and becomes isolated and may speak very little. It will be a time of good-byes and farewells and then a withdrawal into seclusion. This period can come well before the person is even near to death. Often, the dying patient will keep contact with a few trusted people after having said his or her major farewells. During this period the patient is sad and depressed. While a few people may be around, there may not be much conversation. Rather, there is just together time that is often spent in silence. The patient turns inward, thinking about the meaning of his or her life. It is a quiet time; a time of release.</explanation>
+</mcqs>

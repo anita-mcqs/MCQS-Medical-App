@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Tube</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Plate</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Orifice</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Pad</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Cushion</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID 12704</background>
+	<question>A teenage boy with Down's Syndrome has recently returned from his first school trip abroad. On his return journey, he is anxious and fearful to be on a plane. Still distressed the next day, his parents seek medical advice. 
+On clinical examination, he is found to have a heart murmur attributable to a mitral valve defect. What congenital endocardial structure is the most likely origin of this defect? </question>
+	
+	<core>Endocardial cushion defect</core>
+	<explanation>Endocardial cushion defect, more commonly known as Atrioventricular septal defect (AVSD) is a heart defect that involves the valves between the heart's upper and lower chambers and the walls between the chambers. Other terms used to describe this problem include AV canal defect. A similar but less serious form of atrioventricular septal defect is called primum atrial septal defect or incomplete or partial atrioventricular septal defect. The cause of atrioventricular septal defect is not known. Overall it is quite rare and accounts for 4% of heart defects diagnosed in children. However, it is quite common in children with Down syndrome and occurs in about 25% of these children.</explanation>
+</mcqs>

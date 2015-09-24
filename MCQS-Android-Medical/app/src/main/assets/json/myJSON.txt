@@ -1,0 +1,215 @@
+[
+  {
+    "options": [
+      {
+        "incorrectAnswers": [
+          {
+            "incorrectAnswer": [
+              {
+                "_": "Interpeduncular nucleus",
+                "$": {
+                  "node": "Options",
+                  "item": "1",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Stria terminalis",
+                "$": {
+                  "node": "Options",
+                  "item": "2",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Hypothalamus",
+                "$": {
+                  "node": "Options",
+                  "item": "3",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Cerebellum",
+                "$": {
+                  "node": "Options",
+                  "item": "4",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ],
+        "correctAnswers": [
+          {
+            "correctAnswer": [
+              {
+                "_": "Amygdala",
+                "$": {
+                  "node": "Options",
+                  "item": "0",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "background": [
+      "Listening for an event is easy as all you need to do is use <code> Event::listen() </code> with the name of an event and a closure for the actual code of your listener."
+    ],
+    "question": [
+      "Which method would you subsequently use to <code> trigger an event </code> ?"
+    ],
+    "core": [
+      "The most basic way of firing events is using the <code> Event::fire()</code>  method."
+    ],
+    "explanation": [
+      "You can also fire an<code>  array </code> of events if we wanted.\n\n<pre>\nEvent::fire(array('a.b', 'x.y'));\n</pre>\n\nNow both of the events above will be fired. \n<br> You may also give an <code> array of parameters </code> as the second argument.\n<br>\n<pre>\nEvent::fire('x.y', array($z));\n</pre>\nYou can also pass the same parameters to <code> multiple events</code>.\n<pre>\nEvent::fire(array('a.b', 'x.y'), array($z));\n</pre>"
+    ],
+    "images": [
+      "http://www.radiography.com/mcqs/images/SPECTamygdala.jpg"
+    ]
+  },
+  {
+    "options": [
+      {
+        "incorrectAnswers": [
+          {
+            "incorrectAnswer": [
+              {
+                "_": "Allergic bronchopulmonary aspergellosis",
+                "$": {
+                  "node": "Options",
+                  "item": "1",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Cystic fibrosis",
+                "$": {
+                  "node": "Options",
+                  "item": "2",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Paragoniums westermani infection",
+                "$": {
+                  "node": "Options",
+                  "item": "3",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "Pancoast tumor",
+                "$": {
+                  "node": "Options",
+                  "item": "4",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ],
+        "correctAnswers": [
+          {
+            "correctAnswer": [
+              {
+                "_": "Churg-Strauss syndrome",
+                "$": {
+                  "node": "Options",
+                  "item": "0",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "background": [
+      "A 21-year-old Caucasian male presents to your office with **wheezing and rhinitis**.<br>    Laboratory results show **peripheral eosinophilia** and **antibodies against neutrophil myeloperoxidase**."
+    ],
+    "question": [
+      "What is the most likely diagnosis?"
+    ],
+    "core": [
+      "Churg-Strauss syndrome is a **small vessel vasculitis** without immune complexes associated with asthma, **eosinophilia**, and **antibodies against neutrophil myeloperoxidase**"
+    ],
+    "explanation": [
+      "**Eosinophilic granulomatosis with polyangiitis** (EGPA, formerly **Churg-Strauss syndrome**) is a small vessel vasculitis without immune complexes associated with asthma, eosinophilia, and **antibodies against neutrophil myeloperoxidase** (also known as p-ANCA).\n\n>EGPA refers to the combination of primary vasculitis with eosinophilic vasculitis, late-onset asthma, and multisystemic involvement. \n\nHistopathologically, it is marked by **allergic angiitis**  and granulomatosis.\n\n Any organ system can be affected, but **lung involvement** (severe asthma) is almost always present. \n\nSkin lesions occur in up to 50%-70% of cases.\n\n Other commonly affected organs include the nervous system (mono- and polyneuropathy), heart, kidneys, and abdominal viscera."
+    ]
+  },
+  {
+    "options": [
+      {
+        "incorrectAnswers": [
+          {
+            "incorrectAnswer": [
+              {
+                "_": "femoral trangle",
+                "$": {
+                  "node": "Options",
+                  "item": "1",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "posterior to medial malleolus",
+                "$": {
+                  "node": "Options",
+                  "item": "2",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "lateral aspect of the foot",
+                "$": {
+                  "node": "Options",
+                  "item": "3",
+                  "dataIndex": "0"
+                }
+              },
+              {
+                "_": "popliteal fossa",
+                "$": {
+                  "node": "Options",
+                  "item": "4",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ],
+        "correctAnswers": [
+          {
+            "correctAnswer": [
+              {
+                "_": "medial side of the thigh",
+                "$": {
+                  "node": "Options",
+                  "item": "0",
+                  "dataIndex": "0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "background": [
+      "A vascular surgeon is preparing to harvest the **longest vein in the body** to use as a conduit for peripheral **arterial bypass** procedure."
+    ],
+    "question": [
+      "Where will she find and harvest this vein?"
+    ],
+    "core": [
+      "The great saphenous vein can be found traveling up the medial side of the thigh."
+    ],
+    "explanation": [
+      "The **great saphenous vein** is the longest vein in the body and runs along the length of the leg. It can be found traveling up the medial side of the thigh.\nThe great saphenous vein originates at the medial aspect of the foot, courses anterior to the medial maleolus and travels up the **medial side of the leg** and thigh to just inferior to the pubic tubercle. \n\nThere it joins with the femoral vein in the region of the femoral triangle. \n\nThe great saphenous vein can be harvested for used in coronary artery bypass as well as a peripheral arterial bypass. The two methods of harvesting the vein include a long open incision from the groin to ankle as well as a minimally invasive endoscopic approach."
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Gamna-Favre bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Hirano bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Auer bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Lafora's bodies</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Lewy bodies</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID 5690</background>
+	<question>A lecture is being held by the consultant pathologist about the pathological features of paralysis agitans, includes a mention of concentrically laminated, round bodies found in vacuoles in the cytoplasm of some of the neurons of the midbrain in paralysis agitans. 
+These bodies are also known as </question>
+	
+	<core>Dementia with Lewy bodies (DLB)</core>
+	<explanation>Dementia with Lewy bodies (DLB), also known as Drug-Induced Parkinsonism, has been established as the second most common senile degenerative dementia after Alzheimer's disease (AD) . Lewy bodies are distinctive neuronal inclusions that may be seen in several different neurodegenerative processes Lewy bodies are eosinophilic structures located within the cytoplasm of neurons. They are characteristically circular with a dense protein core surrounded by a peripheral halo. They are thought to be the result of altered neurofilament metabolism and/or transport due to neuronal damage and subsequent degeneration, causing an accumulation of altered cytoskeletal elements. ?10% of asymptomatic individuals have presumably insignificant numbers of Lewy bodies, usually located in the substantia nigra. [5]. Diagnostic criteria for DLB have been defined to allow clinical diagnosis . Until quite recently, post mortem examination provided the definitive diagnosis. However, while these clinical criteria have high specificity , they have low sensitivity (2?75%). The central clinical feature required for a diagnosis of DLB is a progressive and fluctuating cognitive decline with recurrent visual hallucinations, systematized delusions and spontaneous parkinsonian symptoms. Repeated falls, syncope, transient loss of consciousness and neuroleptic sensitivity are also clinically characteristic. In AD, in contrast, the progressive decline of memory is prominent and neuropsychiatric features usually occur in the later stages. Moderate parkinsonian signs can be observed during both AD and DLB evolution . Thus, in some cases, the clinical distinction of patients with DLB from those with AD may be difficult because of overlapping symptoms such as cognitive decline, psychiatric signs and parkinsonism. When the initial presentation of DLB is characterized by impaired cognition, the disease can mimic AD</explanation>
+</mcqs>

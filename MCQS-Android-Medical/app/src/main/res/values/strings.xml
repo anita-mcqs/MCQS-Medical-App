@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MCQS Medical</string>
+
+    <string name="title_activity_view_question">MCQS Quiz</string>
+
+    <string name="title_activity_main">MCQS Medical</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_exam">Choose Package</string>
+    <string name="title_activity_download_exam">Download Package</string>
+    <string name="title_activity_single_view">Exam</string>
+    <string name="exam_prompt">Choose a Package</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

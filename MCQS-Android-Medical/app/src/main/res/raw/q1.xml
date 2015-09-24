@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Polar Bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Lamellar Bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Hematoxylin Bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Negri Bodies</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">Gamna-Favre Bodies</correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID: 5686</background>
+	<question>A lecture is being held by the consultant pathologist about the pathological features of lymphogranuloma venereum, includes a mention of small intracytoplasmic inclusion bodies. 
+These bodies are also known as </question>
+	
+	<core>Gamna-Favre Bodies</core>
+	<explanation>Gamna-Favre bodies, small intracytoplasmic inclusion bodies found in lymphogranuloma venereum.</explanation>
+</mcqs>

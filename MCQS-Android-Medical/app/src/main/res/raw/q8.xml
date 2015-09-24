@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcqs>
+	<options>
+		<incorrectAnswers>
+			<incorrectAnswer node="Options" item="1" dataIndex="0">Lewy bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="2" dataIndex="0">Mallory's bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="3" dataIndex="0">Auer bodies</incorrectAnswer>
+			<incorrectAnswer node="Options" item="4" dataIndex="0">Lafora's bodies</incorrectAnswer>
+		</incorrectAnswers>
+		<correctAnswers>
+			<correctAnswer node="Options" item="0" dataIndex="0">molluscum bodies </correctAnswer>
+		</correctAnswers>
+	</options>
+	
+	<background>Question ID 5692</background>
+	<question>A lecture is being held by the consultant pathologist about DNA poxviruses , includes a mention of large homogeneous intracytoplasmic inclusions found in the stratum granulosum of a cutaneous infection caused by a large DNA poxvirus that affects both children and adults. 
+These bodies are also known as 
+
+</question>
+	
+	<core>molluscum contagiosum</core>
+	<explanation>molluscum contagiosum is a cutaneous infection caused by a large DNA poxvirus that affects both children and adults. Transmission has been reported by direct skin contact and has occurred in wrestlers, patients of a surgeon with a hand lesion, and children sharing baths, towels, gymnasium equipment, and benches. Autoinoculation also occurs as evidenced by linear arrays of lesions on infected individuals molluscum bodies, large homogeneous intracytoplasmic inclusions found in the stratum granulosum and stratum corneum in molluscum contagiosum, which contain replicating virions and cellular debris</explanation>
+</mcqs>
